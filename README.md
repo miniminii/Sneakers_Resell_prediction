@@ -1,6 +1,7 @@
 # Sneakers_Resell_prediction
-- CDTB, DAB(Data Analytics for Business)경진대회 참여
-- 본선 진출
+🏆 CDTB, DAB(Data Analytics for Business)경진대회 
+
+🏆 본선 진출
 - **주제 : 리셀 제품 거래 예측을 이용한 리셀테크 플랫폼**
 
 ## 💻프로젝트 소개
